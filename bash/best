@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Best school"
+=======
+echo "This School is so cool!"
+>>>>>>> 032a46e (Modificações em bash/best, remoção de arquivos JS e novos scripts)
